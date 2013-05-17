@@ -1,0 +1,6 @@
+[submodule "dependencies/gl"]
+	path = dependencies/gl
+	url = https://github.com/banthar/gl.git
+[submodule "dependencies/glfw"]
+	path = dependencies/glfw
+	url = https://github.com/go-gl/glfw.git
